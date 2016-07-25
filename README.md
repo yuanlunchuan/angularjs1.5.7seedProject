@@ -1,4 +1,4 @@
-# AngularJS Phone Catalog Tutorial Application
+# AngularJS Seed project Application
 
 
 ## Overview
